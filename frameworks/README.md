@@ -114,6 +114,33 @@
 - **描述**: 通信智能体框架
 - **特点**: 角色扮演、双向对话
 
+### [AgentScope](https://github.com/modelscope-agent/agentscope)
+- **Stars**: 2k+
+- **描述**: 面向开发者的多智能体框架
+- **特点**: 统一接口、可扩展模块、工具集成
+- **论文**: [AgentScope 1.0: A Developer-Centric Framework](https://arxiv.org/abs/2508.16279)
+
+### [TaskWeaver](https://github.com/microsoft/TaskWeaver)
+- **Stars**: 3k+
+- **描述**: 代码优先的 Agent 框架
+- **特点**: 代码转换、插件系统、数据结构支持
+- **论文**: [TaskWeaver: A Code-First Agent Framework](https://arxiv.org/abs/2311.17541)
+
+### [AutoAgents](https://github.com/autoagents/autoagents)
+- **描述**: 自动生成代理的框架
+- **特点**: 自动生成、任务适应、多代理协调
+- **论文**: [AutoAgents: A Framework for Automatic Agent Generation](https://arxiv.org/abs/2309.17288)
+
+### [OpenAgents](https://github.com/xlang-ai/OpenAgents)
+- **描述**: 开放平台构建语言代理
+- **特点**: 日常 API 工具、自主网页浏览、开放平台
+- **论文**: [OpenAgents: An Open Platform for Language Agents in the Wild](https://arxiv.org/abs/2310.10634)
+
+### [AgentStore](https://github.com/agent-store/agentstore)
+- **描述**: 动态集成异构代理的平台
+- **特点**: 动态集成、异构代理、自动化任务
+- **论文**: [AgentStore: A Scalable Platform for Dynamically Integrating Heterogeneous Agents](https://arxiv.org/abs/2410.18603)
+
 ---
 
 ## 📊 框架对比
